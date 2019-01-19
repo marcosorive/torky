@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/torky/static/js/runtime~main.34b67051.js"
   },
   {
-    "revision": "b519d9975dcbe69a6a93",
-    "url": "/torky/static/js/main.b519d997.chunk.js"
+    "revision": "318235ac101fed6afbf8",
+    "url": "/torky/static/js/main.318235ac.chunk.js"
   },
   {
     "revision": "3d62dca1c589c0df6bcf",
     "url": "/torky/static/js/1.3d62dca1.chunk.js"
   },
   {
-    "revision": "b519d9975dcbe69a6a93",
+    "revision": "318235ac101fed6afbf8",
     "url": "/torky/static/css/main.b431cdca.chunk.css"
   },
   {
-    "revision": "a4d1c431a37ddfe9456ec2b653248881",
+    "revision": "10bade9e7acfaacfbd241b493e98222d",
     "url": "/torky/index.html"
   }
 ];
