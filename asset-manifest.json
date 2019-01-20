@@ -1,13 +1,13 @@
 {
-  "main.css": "/torky/static/css/main.b431cdca.chunk.css",
-  "main.js": "/torky/static/js/main.318235ac.chunk.js",
-  "main.js.map": "/torky/static/js/main.318235ac.chunk.js.map",
+  "main.css": "/torky/static/css/main.0d41ff56.chunk.css",
+  "main.js": "/torky/static/js/main.d736209d.chunk.js",
+  "main.js.map": "/torky/static/js/main.d736209d.chunk.js.map",
   "static/js/1.3d62dca1.chunk.js": "/torky/static/js/1.3d62dca1.chunk.js",
   "static/js/1.3d62dca1.chunk.js.map": "/torky/static/js/1.3d62dca1.chunk.js.map",
   "runtime~main.js": "/torky/static/js/runtime~main.34b67051.js",
   "runtime~main.js.map": "/torky/static/js/runtime~main.34b67051.js.map",
-  "static/css/main.b431cdca.chunk.css.map": "/torky/static/css/main.b431cdca.chunk.css.map",
+  "static/css/main.0d41ff56.chunk.css.map": "/torky/static/css/main.0d41ff56.chunk.css.map",
   "index.html": "/torky/index.html",
-  "precache-manifest.3de9b01ddaa91f305c5ff780929ae407.js": "/torky/precache-manifest.3de9b01ddaa91f305c5ff780929ae407.js",
+  "precache-manifest.df1230bd34ee3d3aabc4b45a6f4f3639.js": "/torky/precache-manifest.df1230bd34ee3d3aabc4b45a6f4f3639.js",
   "service-worker.js": "/torky/service-worker.js"
 }
