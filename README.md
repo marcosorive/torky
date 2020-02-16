@@ -1,4 +1,4 @@
 # Torky (Fronted)
 Frontend of Torky, videogame price comparator. Made with ReactJS
 
-Try it: https://marcosorive.github.com/torky
+Try it: https://marcosorive.github.io/torky
